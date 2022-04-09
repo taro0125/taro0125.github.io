@@ -8,17 +8,38 @@
      @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap');
      </style>
    </head>
+  
     <!--最上面的導覽行-->
    <nav>
-     <li>首頁</li>
-     <li>每日作品</li>
-     <li>歷史博物館</li>
-     <li>創作公園</li>
-     <li>活動資訊</li>
-     <li>關於我們</li> 
-     <li>悄悄話</li>
+    <ul>
+      <li><a href="#">首頁</a></li>
+      <li><a href="#">每日作品</a></li>
+      <li><a href="#">歷史博物館</a></li>
+      <li><a href="#">創作公園</a></li>
+      <li><a href='#">活動資訊</a></li>
+      <li><a href="#">關於我們</a></li> 
+      <li><a href="#">悄悄話</a></li>
+    </ul>   
    </nav> 
-      
+ nav a {
+       color: inherit; <!--移除超連結顏色-->
+       font-size: 1.2rem;
+       text-decoration: none; <!--移除超連結底線-->
+ }     
+       
+ nav > ul {
+       background-color: rgb(201, 191, 176)
+       list-style: none; <!--移除符號-->
+       margin: 0;
+       padding: 0;
+ }
+       
+ nav a:hover {
+       background-color: rgb(182, 159, 129)
+       color: white;
+ }      
+
+       
    <body>
      <h1>ArtTour－藝起出去玩</h1>
    </body>  
