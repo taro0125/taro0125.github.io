@@ -45,22 +45,6 @@ nav li:hover {
     display: inline-block;
 }
 
-.float-nav-outer {
-    background-color: rgb(230, 230, 230);
-    overflow: hidden;
-}
-
-.float-nav {
-    position: relative;
-    left: 50%;
-    float: left;
-}
-
-.float-nav > li {
-    float: left;
-    position: relative;
-    right: 50%;
-}
 
 
 
