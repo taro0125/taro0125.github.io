@@ -27,7 +27,7 @@ nav a {
 
 /* 滑鼠移到 <a> 時變成深底淺色 */
 nav li:hover {
-    background-color: rgb(182, 159, 129);
+    background-color: rgb(201, 191, 176);
     color: white;
 }
 
