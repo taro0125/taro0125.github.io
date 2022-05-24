@@ -53,10 +53,8 @@ nav li:hover {
 
 
 table {
-    margin: 60px;              /* 添加外距 */
-    align: center;
     border-collapse: collapse; /* 邊框合併為單一邊框，讓表格變得更美化*/
-    width: 100%;               /* 表格寬度設為100%，會隨著螢幕寬度縮放*/  
+    width: 100%;               /* 表格寬度設為100%，會隨著螢幕寬度縮放*/
 }
 
 th,td {
