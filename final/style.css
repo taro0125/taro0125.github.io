@@ -50,6 +50,12 @@ nav li:hover {
 
 
 /* 表格設定 */
+
+.table-outbox {
+  margin: 50px; /* 添加外距 */
+  box-shadow: 0px 35px 50px rgba(27, 31, 49, 0.1); /* 添加表格陰影 */
+}
+
 table {
     border-collapse: collapse; /* 邊框合併為單一邊框，讓表格變得更美化*/
     width: 100%;               /* 表格寬度設為100%，會隨著螢幕寬度縮放*/
