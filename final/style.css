@@ -59,6 +59,7 @@ ul.slides {
 }
 
 li.slide {
+  align: center;  
   margin: 0;
   padding: 0;
   width: inherit;
