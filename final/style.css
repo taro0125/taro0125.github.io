@@ -80,12 +80,12 @@ li.slide {
 }
 
 .slide:nth-of-type(2) {
-  background-color: #F25C05;
+  background-image: url('https://taro0125.github.io/final/picture/show02.png');
   left: 100%;
 }
 
 .slide:nth-of-type(3) {
-  background-color: #495F8C;
+  background-image: url('https://taro0125.github.io/final/picture/show03.jpg');
   left: 200%;
 }
 
