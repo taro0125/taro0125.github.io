@@ -63,3 +63,9 @@ th,td {
     text-align: left;        /* 文字靠左對齊*/
     vertical-align: top;     /* 垂直對齊該行文字的最高位置*/
 }
+
+.inner {
+  margin: 20px auto;
+  item-align: center;
+  width: 80%;
+}
