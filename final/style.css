@@ -46,13 +46,6 @@ nav li:hover {
 }
 
 
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-}
-
 ul.slides {
   position: relative;
   width: 600px;
