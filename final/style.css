@@ -52,7 +52,7 @@ ul.slides {
   width: 1000px;
   height: 280px;
   list-style: none;
-  margin: 0;
+  margin: 15px;
   padding: 0;
   background-color: #eee;
   overflow: hidden;
