@@ -31,7 +31,7 @@ nav li:hover {
     color: white;
 }
 
-.flex-nav {
+.taro-line {
     display: flex;
     justify-content: center;
 }
