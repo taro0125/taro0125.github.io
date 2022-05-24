@@ -79,20 +79,22 @@ li.slide {
   background-image: url('https://taro0125.github.io/final/picture/show01.jpg');
   background-size: contain;  
   background-repeat: no-repeat;
-  background-position:   
+  background-position: center;   
 }
 
 .slide:nth-of-type(2) {
   background-image: url('https://taro0125.github.io/final/picture/show02.png');
   background-size: contain;
   background-repeat: no-repeat;
+  background-position: center;   
   left: 100%;
 }
 
 .slide:nth-of-type(3) {
   background-image: url('https://taro0125.github.io/final/picture/show03.jpg');
   background-size: contain; 
-  background-repeat: no-repeat;  
+  background-repeat: no-repeat;
+  background-position: center;   
   left: 200%;
 }
 
