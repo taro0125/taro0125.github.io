@@ -48,6 +48,7 @@ nav li:hover {
 
 ul.slides {
   position: relative;
+  align:center  
   width: 1000px;
   height: 280px;
   list-style: none;
