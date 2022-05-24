@@ -78,7 +78,8 @@ li.slide {
 .slide:nth-of-type(1) {
   background-image: url('https://taro0125.github.io/final/picture/show01.jpg');
   background-size: contain;  
-  background-repeat: no-repeat;  
+  background-repeat: no-repeat;
+  background-position:   
 }
 
 .slide:nth-of-type(2) {
