@@ -160,7 +160,7 @@ input[type="radio"] {
 
 .navigator {
   position: absolute;
-  top: 50%;
+  top: 20%;
   transform: translatey(-50%);
   width: 100%;
   z-index: 100;
