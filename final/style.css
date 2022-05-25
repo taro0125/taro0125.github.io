@@ -218,3 +218,25 @@ th,td {
     text-align: left;        /* 文字靠左對齊*/
     vertical-align: top;     /* 垂直對齊該行文字的最高位置*/
 }
+
+.pagetop {
+    text-align: right;
+    margin: 1em;
+}
+
+.copyright {
+    border-top: solid 5px #D2B48C;
+    text-align: center;
+    padding-top: 20px;
+}	
+
+	
+footer {
+    font-size:14px;
+    font-weight: 200;
+    line-height: 1em;
+    padding: 20px;    
+
+}
+
+
