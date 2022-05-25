@@ -47,8 +47,13 @@ nav li:hover {
     display: inline-block;
 }
 
+.inform {
+    align： right;
+    padding-left: 200px;
+}    
+
 .information {
-    padding-left: 80px; 
+    padding-left: 150px; 
 }
 
 
