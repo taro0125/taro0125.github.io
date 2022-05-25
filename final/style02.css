@@ -57,24 +57,13 @@ nav li:hover {
 
     
     
-
-/* 回到本頁開頭 */
-.pagetop {
-    text-align: right;
-    margin: 1em;
-}
-/* 著作權資訊 */
-.copyright {
-    border-top: solid 5px #CA5D87;
+.foot {
     text-align: center;
-	padding-top: 20px;
+    background-color: #c9bfb0;
+    height: 50px;
+    margin-top: 20px;
 }
-/* 超連結設定 */
-a{
-	color: #42C5EA;
-	text-decoration: none;
-}
-a:hover{
-	color: #CA5D87;
-	text-decoration: none;
-}
+	
+	
+	
+	
