@@ -55,5 +55,14 @@ nav li:hover {
     padding-left: 250px;
 
 
+.pagetop {
+    text-align: right;
+    margin: 1em;
+}
 
+.copyright {
+    border-top: solid 5px #CA5D87;
+    text-align: center;
+	padding-top: 20px;
+}
 
