@@ -55,12 +55,12 @@ nav li:hover {
     padding-left: 250px;
     line-height: 2em;	
 
-p pagetop {
+.pagetop {
     text-align: right;
     margin: 1em;
 }
 
-p copyright {
+.copyright {
     border-top: solid 5px #CA5D87;
     text-align: center;
     padding-top: 20px;
@@ -72,9 +72,7 @@ footer {
     font-weight: 200;
     line-height: 1em;
     padding: 20px;
-    border-top: solid 5px #CA5D87;
-    text-align: center;
-    padding-top: 20px;	
+
 }
 	
 	
