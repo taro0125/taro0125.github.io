@@ -55,12 +55,12 @@ nav li:hover {
     padding-left: 250px;
     line-height: 2em;	
 
-.pagetop {
+p pagetop {
     text-align: right;
     margin: 1em;
 }
 
-.copyright {
+p copyright {
     border-top: solid 5px #CA5D87;
     text-align: center;
 	padding-top: 20px;
