@@ -47,7 +47,9 @@ nav li:hover {
     display: inline-block;
 }
 
-  
+.container {
+    align: left;
+    padding-left: 250px;
 
 .information {
     padding-left: 250px; 
