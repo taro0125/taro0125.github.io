@@ -46,3 +46,10 @@ nav li:hover {
 .inline-block-nav > li {
     display: inline-block;
 }
+
+.information {
+    padding-left: 80px; 
+}
+
+
+
