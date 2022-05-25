@@ -56,16 +56,32 @@ nav li:hover {
     line-height: 2em;	
 
 
-/* 回到本頁開頭 */
-.pagetop {
-    text-align: right;
-    margin: 1em;
+.footer {
+   background-color: #333;
+   height: 100px;
+   margin-top: 20px;
+}	
+  .footer-text{
+    float: left;
+    font-size: $font-m;
+    color: $navbar-color;
+    line-height: 100px;
+
+  }
+  .footer-menu {
+    float: right;
+    line-height: 100px;
+
+    li {
+      float: left;
+      margin-right: 1em;
 }
-/* 著作權資訊 */
-.copyright {
-    border-top: solid 5px #CA5D87;
-    text-align: center;
-	padding-top: 20px;
+      a {
+        font-size: $font-m;
+        color: $navbar-color;
+        cursor: pointer;
 }
+
+
 
     
