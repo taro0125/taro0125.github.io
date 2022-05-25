@@ -55,13 +55,12 @@ nav li:hover {
     padding-left: 250px;
     line-height: 2em;	
 
-    
-    
 .foot {
-    background-color: #c9bfb0;
-    height: 50px;
-    margin-top: 20px;
-}
+    text-align: center;
+    background-color: #C9BFB0;
+    height: 100px;
+    margin-top: 20px;	 
+}	
 	
 	
 	
