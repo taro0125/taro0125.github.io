@@ -1,3 +1,8 @@
+html {
+    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Noto Serif TC', serif;
+} 
+
 html { box-sizing: border-box; }
 *, *::before, *::after { box-sizing: inherit; }
 
