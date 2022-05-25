@@ -57,13 +57,13 @@ nav li:hover {
 }
 	
 .pagetop {
-    text-align: right;
+    text-align: center;
     margin: 1em;
 }
 
 .copyright {
     border-top: solid 5px #D2B48C;
-    text-align: center;
+    text-align: right;
     padding-top: 20px;
 }	
 
