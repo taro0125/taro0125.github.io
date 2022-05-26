@@ -59,7 +59,7 @@ img{
 }
 
 .draw {　
-    align: center;	
+    position: center;	
     height: 540px;
     width: 803.5px;
     margin: 50px;
