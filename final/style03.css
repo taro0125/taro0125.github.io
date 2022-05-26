@@ -53,6 +53,7 @@ nav li:hover {
 }
 
 img{
+  box-align: center;	
   display: block;
   width: 100%;
   height: auto;
@@ -60,7 +61,7 @@ img{
 }
 
 .draw {　
-    align: center;
+    box-align: center;
     height: 540px;
     width: 803.5px;
     margin: 50px;
