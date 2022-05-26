@@ -52,6 +52,12 @@ nav li:hover {
     display: inline-block;
 }
 
+img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 .draw {
     align: center;
     height: 540px;
