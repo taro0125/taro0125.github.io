@@ -54,9 +54,6 @@ nav li:hover {
 
 
 .draw {　	
-    height: 440px;
-    width: 703.5px;
-    margin: 50px;
     border-width:12px; border-color:#d4af88;	
     border-style: outset;
     padding: 10px;	
