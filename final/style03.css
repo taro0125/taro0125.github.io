@@ -55,11 +55,11 @@ nav li:hover {
 img{
   display: block;
   width: 100%;
-  height: auto;
-  align: center;	  
+	  
 }
 
 .draw {　
+    align: center;	
     height: 540px;
     width: 803.5px;
     margin: 50px;
