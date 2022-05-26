@@ -56,7 +56,7 @@ img{
   display: block;
   width: 100%;
   height: auto;
-  align: center
+  align: center	  
 }
 
 .draw {
@@ -64,7 +64,9 @@ img{
     height: 540px;
     width: 803.5px;
     margin: 50px;	    
-	
+    border-width:5px; border-color:#939699;	
+    border-style: outset;
+    padding: 10px;
 }
 
 
