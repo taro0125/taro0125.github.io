@@ -69,13 +69,16 @@ img{
 
 }
 
-.test:after {
-  content: "";
-  /* 四邊透明的 border */
-  border: transparent 10px solid;
-  /* 將其中一補上色彩 */
-  border-top-color: #00cc99;
-}
+.first:before
+  content: open-quote
+
+.first:after
+  content: close-quote
+
+.first:before,.quote:after
+  font-size: 3em
+  color: #ccc
+
 
 
 .pagetop {
