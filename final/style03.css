@@ -52,11 +52,6 @@ nav li:hover {
     display: inline-block;
 }
 
-img{
-  display: block;
-  width: 100%;
-	  
-}
 
 .draw {　	
     height: 540px;
@@ -65,20 +60,6 @@ img{
     border-width:12px; border-color:#d4af88;	
     border-style: outset;
     padding: 10px;
-}
-
-
-.first:before {
-  content: open-quote
-}
-
-.first:after {
-  content: close-quote
-}
-
-.first:before,.quote:after {
-  font-size: 3em
-  color: #ccc
 }
 
 
