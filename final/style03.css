@@ -58,31 +58,32 @@ img{
 	  
 }
 
-.draw {　
-    position: center;	
+.draw {　	
     height: 540px;
     width: 803.5px;
     margin: 50px;
     border-width:12px; border-color:#d4af88;	
     border-style: outset;
     padding: 10px;
-
 }
 
-.first:before
+
+.first:before {
   content: open-quote
+}
 
-.first:after
+.first:after {
   content: close-quote
+}
 
-.first:before,.quote:after
+.first:before,.quote:after {
   font-size: 3em
   color: #ccc
-
+}
 
 
 .pagetop {
-    text-align: right;
+    text-align: center;
     margin: 1em;
 }
 
