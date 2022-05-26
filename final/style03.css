@@ -60,13 +60,13 @@ img{
 }
 
 .draw {　
-　　border-width:8px; border-color:#939699;	
-    border-style: outset;
-    padding: 10px;
     align: center;
     height: 540px;
     width: 803.5px;
-    margin: 50px;	    
+    margin: 50px;
+　　border-width:8px; border-color:#939699;	
+    border-style: outset;
+    padding: 10px;
 
 }
 
