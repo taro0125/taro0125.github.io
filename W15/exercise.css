@@ -10,3 +10,7 @@ h2 {
 ol {
   list-style-type:square;
 }
+
+body {
+  border: thick solid blue;
+}
