@@ -7,6 +7,6 @@ h2 {
   text-shadow: 12px 15px 5px gray, 18px 15px 7px silver;
 }  
 
-ul {
+ol {
   list-style-type:decimal;
 }
