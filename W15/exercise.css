@@ -6,3 +6,7 @@ h1 {
 h2 {
   text-shadow: 12px 15px 5px gray, 18px 15px 7px silver;
 }  
+
+ul {
+  list-style-type:decimal
+}
