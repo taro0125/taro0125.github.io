@@ -60,7 +60,9 @@ nav li:hover {
     padding: 10px;   
     outline-width:12px; outline-color:#d4af88;	
     outline-style: outset;
-    display: block;	    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;	    
     clear: both;	
 }
 
