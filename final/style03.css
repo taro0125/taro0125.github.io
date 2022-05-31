@@ -57,8 +57,6 @@ nav li:hover {
     height: 440px;
     width: 705.5px;
     margin: 50px;	 
-    outline-width:12px; outline-color:#d4af88;	
-    outline-style: outset;
     padding: 10px; 
     display: block;	    
     clear: both;	
