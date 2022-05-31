@@ -60,7 +60,7 @@ nav li:hover {
     border-width:12px; border-color:#d4af88;	
     border-style: outset;
     padding: 10px;
-    box-sizing: border-box;	
+	
 }
 
 
@@ -68,14 +68,14 @@ nav li:hover {
 .pagetop {
     text-align: center;
     margin: 1em;
-    box-sizing: border-box;	
+	
 }
 
 .copyright {
     border-top: solid 5px #D2B48C;
     text-align: center;
     padding-top: 20px;
-    box-sizing: border-box;	
+	
 }	
 
 	
@@ -84,7 +84,7 @@ footer {
     font-weight: 200;
     line-height: 1em;
     padding: 20px;    
-    box-sizing: border-box;
+
 
 }
 
