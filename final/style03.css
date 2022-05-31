@@ -60,7 +60,7 @@ nav li:hover {
     outline-width:12px; outline-color:#d4af88;	
     outline-style: outset;
     padding: 10px;
-    text-align : center;	 
+    display: flex;	 
     display: block;	    
     clear: both;	
 }
