@@ -66,10 +66,10 @@ nav li:hover {
     clear: both;	
 }
 
-.word {
-    clear: both;
-    text-align: right;
-    padding-top: 50px	
+.word01 {
+    text-align: center;
+    letter-spacing: 5px;
+    color: gray;
 }	
 	
 
