@@ -76,13 +76,8 @@ nav li:hover {
 .word02 {
     text-align: left;
     letter-spacing: 2px;
-    line-height: 1.5;
-    outline-width: 3px;
-    outline-color: #0072E3;
-    ourline-style: solid;	
-    padding-left: 10px;
-    margin-left: auto;
-    margin-right: auto;	
+    line-height: 1.5;	
+    padding-left: 50px;
 
 }	
     
