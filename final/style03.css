@@ -78,6 +78,9 @@ nav li:hover {
     letter-spacing: 2px;
     line-height: 1.5;	
     margin-left: 50px;
+    outline-width: 3px;
+    outlien-color: #0072E3;
+    padding: 10px;	
 
 }	
     
