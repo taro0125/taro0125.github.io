@@ -61,8 +61,13 @@ nav li:hover {
     border-style: outset;
     padding: 10px;
     clear: both;	
-
 }
+
+.word {
+    clear: both;	
+}	
+	
+
 
 
 
