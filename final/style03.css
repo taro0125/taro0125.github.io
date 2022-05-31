@@ -64,7 +64,8 @@ nav li:hover {
 }
 
 .word {
-    clear: both;	
+    clear: both;
+    text-align: right;	
 }	
 	
 
