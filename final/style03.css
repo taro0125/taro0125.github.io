@@ -77,7 +77,11 @@ nav li:hover {
     text-align: left;
     letter-spacing: 2px;
     line-height: 1.5;
+    outline-width: 3px;
+    outline-color: #0072E3;
+    ourline-style: solid;	
     padding-left: 10px;
+    margin: auto;
 
 }	
     
