@@ -74,9 +74,10 @@ nav li:hover {
 	
 
 .h5 {
-    text-align: center;
+    text-align: left;
     letter-spacing: 2px;
     line-height: 1;
+    padding-left: 100px;	
     outline-width:3px;
     outline-color: #9ac3ff;
 	
