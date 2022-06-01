@@ -56,11 +56,13 @@ nav li:hover {
 .draw {
     height: 440px;
     width: 702.5px;
-    margin-top: 50px;	    
+    margin-top: 50px;	
+    padding: 10px;	
     outline-width:12px; outline-color: #c2a167;	
     outline-style: outset;
     display: block;
-    padding-left:300px;  
+    margin-left : auto;
+    margin-right: auto;
     clear: both;	
 }
 
@@ -75,9 +77,9 @@ nav li:hover {
     text-align: left;
     letter-spacing: 2px;
     line-height: 2;
-    margin-top: 10px; 	
-    margin-left : auto;
-    margin-right: auto;
+    margin-top: 10px; 
+    padding-left: 300px;	
+  
 	
 }	
     
