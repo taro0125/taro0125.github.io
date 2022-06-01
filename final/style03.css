@@ -59,7 +59,7 @@ nav li:hover {
     margin-top: 50px;	 
     padding: 10px;   
     outline-width:12px; outline-color: #d1af73;	
-    outline-style: thick double;
+    outline-style: solid;
     margin-left: auto;
     margin-right: auto;	    
     clear: both;	
