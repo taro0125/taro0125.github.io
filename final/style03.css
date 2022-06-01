@@ -78,9 +78,10 @@ nav li:hover {
     letter-spacing: 2px;
     line-height: 2;
     margin-top: 10px;
-    background-color: lightblue;
-    background-position: center;
-    background-size:400px 300px;
+    outline-width:3px; outline-color:#d4af88;	
+    outline-style: solid;
+    margin-left: auto;
+    margin-right: auto;	 	
     padding: 10px;	
 
 }	
