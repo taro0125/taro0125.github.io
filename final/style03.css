@@ -58,8 +58,8 @@ nav li:hover {
     width: 702.5px;
     margin-top: 50px;	 
     padding: 10px;   
-    outline-width:12px; outline-color:#d4af88;	
-    outline-style: outset;
+    outline-width:12px; outline-color: #32a1ce;	
+    outline-style: thick double;
     display: block;
     margin-left: auto;
     margin-right: auto;	    
