@@ -77,7 +77,8 @@ nav li:hover {
     text-align: left;
     letter-spacing: 2px;
     line-height: 2;	
-    padding-left: 200px;	
+    margin-left: auto;
+    margin-right: auto;	   	
 
 }	
     
