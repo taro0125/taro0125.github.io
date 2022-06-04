@@ -76,7 +76,7 @@ nav li:hover {
   width: 700px;
   height: 240px;
   border: 1px solid;
-  border-color: red;
+  border-color: transparent;
   margin: auto;
   position: relative;
   clear: both;	
