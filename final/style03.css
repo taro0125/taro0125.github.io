@@ -74,6 +74,9 @@ nav li:hover {
 	
 
 .word02 {
+    width: 400px;
+    background: #ccc;
+    height: 70px;
     text-align: left;
     letter-spacing: 2px;
     line-height: 2;
