@@ -71,7 +71,15 @@ nav li:hover {
     letter-spacing: 3px;
     color: gray;
 }	
-	
+
+.content {
+  width: 500px;
+  height: 250px;
+  border: 1px solid #f00;
+  margin: auto;
+  position: relative;
+}
+
 
 .word02 {
     width: 400px;
