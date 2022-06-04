@@ -78,6 +78,7 @@ nav li:hover {
     letter-spacing: 2px;
     line-height: 2;
     margin-top: 10px; 
+    position: absolute;
     top: 0;
     right: 0;
     bottom: 0;
