@@ -73,8 +73,8 @@ nav li:hover {
 }	
 
 .content {
-  width: 800px;
-  height: 200px;
+  width: 700px;
+  height: 100px;
   border: 1px solid;
   border-color: transparent;
   margin: auto;
@@ -85,7 +85,7 @@ nav li:hover {
 
 .word02 {
     width: 650px;
-    background: #ccc;
+    background-color:transparent;
     height: 200px;
     text-align: left;
     letter-spacing: 2px;
