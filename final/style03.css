@@ -78,6 +78,7 @@ nav li:hover {
   border: 1px solid #f00;
   margin: auto;
   position: relative;
+  clear: both;	
 }
 
 
@@ -96,6 +97,7 @@ nav li:hover {
     left: 0;
     margin-left: auto;
     margin-right: auto;	
+    clear: both;	
   	
 }	
     
