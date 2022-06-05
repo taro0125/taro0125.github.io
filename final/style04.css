@@ -112,3 +112,31 @@ div.desc {
   display: table;
   clear: both;
 }
+
+
+
+.pagetop {
+    text-align: center;
+    margin: 1em;
+	
+}
+
+.copyright {
+    border-top: solid 5px #D2B48C;
+    text-align: center;
+    padding-top: 20px;
+	
+}	
+
+	
+footer {
+    font-size:14px;
+    font-weight: 200;
+    line-height: 1em;
+    padding: 20px;  
+    clear: both;
+
+
+}
+
+
