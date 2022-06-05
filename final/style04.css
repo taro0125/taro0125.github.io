@@ -52,3 +52,12 @@ nav li:hover {
     display: inline-block;
 }
 
+
+
+.picture {
+    writing-mode: vertical-lr;
+    padding-left: 50px;
+}        
+
+
+
