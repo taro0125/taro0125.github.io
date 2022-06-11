@@ -72,6 +72,34 @@ img {
 }	
 
 
+ .happy {
+    width: 800px;
+    margin: 50px auto;
+    border:solid 1px gray;
+    overflow: hidden; /* 避免長方框下面顯示不正常 */
+}
+
+.introduce {
+    width: 300px;
+    float:left; /* 圖片在左邊 */
+    padding: 20px;
+}
+
+.introduce img{
+    display: block;
+    width:100%;
+	
+}
+
+.intext{
+    float: right;  /* 文字在右邊 */
+    width: 430px;
+    padding: 20px 20px 0px 0px;
+	
+}
+
+
+
 .pagetop {
     text-align: center;
     margin: 1em;
