@@ -121,6 +121,7 @@ table {
 th,td {
     border-bottom: solid 1px #cccccc; /* 邊框底邊，設定為實線、1px、#cccccc灰色細邊炳框*/
     padding: 10px;           /* 內距設為10px*/
+    padding-left: 20px;	
     text-align: center;      
     vertical-align: top;     /* 垂直對齊該行文字的最高位置*/
 }
