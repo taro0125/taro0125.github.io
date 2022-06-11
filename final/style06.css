@@ -57,8 +57,9 @@ nav li:hover {
 img {
   border: 1px solid #ddd;
   border-radius: 4px;
-  padding: 5px;
+  padding: 20px;
   width: 150px;	
+	
 }
 
 img:hover {
@@ -66,10 +67,14 @@ img:hover {
 }
 
 .boxbox {
-    border:solid 1px gray;	
+    width: 500px;
+    margin: 50px auto;
+    border:solid 1px gray;
+    overflow: hidden;	
     margin-top: 50px;
     margin-left: 90px;
-    margin-right: 5px;	
+    margin-right: 5px;
+    padding: 10px;	
 }	
 	
 
