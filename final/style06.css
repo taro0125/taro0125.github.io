@@ -67,25 +67,35 @@ img {
 img:hover {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
+	
 
-.boxbox {
-    width: 600px;
+ .boxbox {
+    width: 500px;
     margin: 50px auto;
     border:solid 1px gray;
-    overflow: hidden;	
-    margin-top: 50px;
-    margin-left: 90px;
-    margin-right: 5px;	
+    overflow: hidden; /* 避免長方框下面顯示不正常 */
+}
+
+.introduce {
+    float:center; /* 圖片在左邊 */
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-left: 100px;
+    padding-right: 0px;	
+}
+
+.introduce img{
+    display: block;
+    width:100%;
 	
 }
 
 .wordword {
-  align: left;
-  padding: 10px;
-}	
+    float: center;  /* 文字在右邊 */
+    width: 500px;
+    padding: 20px 20px 0px 0px;
 	
-
-
+}
 
 
 
