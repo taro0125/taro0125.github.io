@@ -68,7 +68,7 @@ img {
 
 
  .happy {
-    width: 1100px;
+    width: 1200px;
     margin: 50px auto;
     border:solid 1px gray;
     overflow: hidden; /* 避免長方框下面顯示不正常 */
