@@ -78,6 +78,10 @@ div.container {
   padding: 10px 20px;
 }
 
+.words {
+  text-align: right;
+}	
+
 
 .pagetop {
     text-align: center;
