@@ -94,7 +94,7 @@ img {
 .intext{
     float: right;  /* 文字在右邊 */
     width: 430px;
-    padding: 20px 20px 0px 0px;
+    padding: 20px 20px 0px 20px;
 	
 }
 
