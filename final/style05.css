@@ -68,7 +68,7 @@ img {
 
 
  .happy {
-    width: 1000px;
+    width: 1100px;
     margin: 50px auto;
     border:solid 1px gray;
     overflow: hidden; /* 避免長方框下面顯示不正常 */
@@ -78,7 +78,7 @@ img {
     float:left; /* 圖片在左邊 */
     padding-top: 20px;
     padding-bottom: 20px;
-    padding-left: 30px;
+    padding-left: 50px;
     padding-right: 30px;	
 }
 
