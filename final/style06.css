@@ -82,7 +82,7 @@ img:hover {
 .introduce {
     float:left; /* 圖片在左邊 */
     padding-top: 35px;
-    padding-bottom: 35px;
+    padding-bottom: 25px;
     padding-left: 180px;
     padding-right: 0px;	
 }
