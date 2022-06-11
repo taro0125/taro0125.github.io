@@ -60,12 +60,7 @@ nav li:hover {
     margin: 30px;
 }        
 
-
-.contain {
-   margin-left: auto;
-   margin-right: auto;
-   text-align: left:	
-}	
+	
 
 img {
   border-radius: 8px;
@@ -73,7 +68,7 @@ img {
 
 
  .happy {
-    width: 800px;
+    width: 900px;
     margin: 50px auto;
     border:solid 1px gray;
     overflow: hidden; /* 避免長方框下面顯示不正常 */
@@ -93,7 +88,7 @@ img {
 
 .intext{
     float: right;  /* 文字在右邊 */
-    width: 430px;
+    width: 500px;
     padding: 20px 20px 0px 20px;
 	
 }
