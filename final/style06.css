@@ -72,9 +72,9 @@ img:hover {
  .boxbox {
     width: 550px;
     margin-left: 50px;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-right: 5px;	 
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;	 
     border:solid 1px gray;
     overflow: hidden; /* 避免長方框下面顯示不正常 */
 }
